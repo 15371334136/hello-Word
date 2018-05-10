@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:788px;
-  height:324px;
+  height:352px;
   background:inherit;
   background-color:rgba(102, 102, 102, 1);
   border:none;
@@ -31,12 +31,12 @@
   left:43px;
   top:29px;
   width:788px;
-  height:324px;
+  height:352px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:154px;
+  top:168px;
   width:784px;
   visibility:hidden;
   word-wrap:break-word;
@@ -46,14 +46,14 @@
   left:0px;
   top:0px;
   width:719px;
-  height:240px;
+  height:304px;
 }
 #u2 {
   position:absolute;
   left:78px;
   top:57px;
   width:719px;
-  height:240px;
+  height:304px;
   font-size:14px;
   color:#FFFFFF;
 }
