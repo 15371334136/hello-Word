@@ -12,83 +12,27 @@
   position:absolute;
   z-index:0;
 }
-#u905_img {
+#u909_img {
   position:absolute;
   left:0px;
   top:0px;
   width:893px;
   height:524px;
 }
-#u905 {
+#u909 {
   position:absolute;
   left:51px;
   top:128px;
   width:893px;
   height:524px;
 }
-#u906 {
+#u910 {
   position:absolute;
   left:2px;
   top:254px;
   width:889px;
   visibility:hidden;
   word-wrap:break-word;
-}
-#u907_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u907 {
-  position:absolute;
-  left:142px;
-  top:355px;
-  width:57px;
-  height:16px;
-}
-#u908 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  white-space:nowrap;
-}
-#u909_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u909 {
-  position:absolute;
-  left:148px;
-  top:611px;
-  width:57px;
-  height:16px;
-}
-#u910 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  white-space:nowrap;
 }
 #u911_div {
   position:absolute;
@@ -106,12 +50,68 @@
 }
 #u911 {
   position:absolute;
+  left:142px;
+  top:355px;
+  width:57px;
+  height:16px;
+}
+#u912 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  white-space:nowrap;
+}
+#u913_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u913 {
+  position:absolute;
+  left:148px;
+  top:611px;
+  width:57px;
+  height:16px;
+}
+#u914 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  white-space:nowrap;
+}
+#u915_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u915 {
+  position:absolute;
   left:163px;
   top:279px;
   width:57px;
   height:16px;
 }
-#u912 {
+#u916 {
   position:absolute;
   left:0px;
   top:0px;
